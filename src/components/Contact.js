@@ -1,10 +1,18 @@
 import React from 'react'
 import './contactStyle.css';
+import { Link } from "react-router-dom";
 
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min';
+
+import Header from './header';
+import Footer from './footer';
 
 function Contact() {
   return (
     <div>
+   
+      <Header />
         <div className="contact3 py-5">
   <div className="row no-gutters">
     <div className="container">
@@ -95,6 +103,7 @@ function Contact() {
     </div>
   </div>
 </div>
+<Footer />
     </div>
   )
 }

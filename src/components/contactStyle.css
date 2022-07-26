@@ -45,3 +45,18 @@
   background: -o-linear-gradient(left, #ff6a5b 0%, #ff4d7e 100%);
   background: linear-gradient(to right, #ff6a5b 0%, #ff4d7e 100%);
 }
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700");
+
+/*	inspiration color #A293B2 */
+
+.black{
+	color: black;
+}
+h1 {
+  text-align: center;
+}
+body{
+	background-image: linear-gradient(315deg, #ffffff 0%, #2a292c 74%);}
+
+
+

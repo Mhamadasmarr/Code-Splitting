@@ -6,8 +6,8 @@ import Footer from './footer'
 function Home() {
   return (
     <div>
-        <Header />
-<Carouselcomp />
+    <Header />
+    <Carouselcomp />
 	<Article />
 	<Footer />
     </div>

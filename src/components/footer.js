@@ -87,7 +87,7 @@ To see a detailed list of our works and the progress please see our project page
           <div className="col-md-7 col-lg-8 text-center text-md-start">
 
             <div className="p-3">
-              © 2020 Copyright
+              © 2022 Copyright
              
               
             </div>
